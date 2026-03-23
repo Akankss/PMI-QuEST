@@ -189,9 +189,7 @@ Filename,Data
 
 ## Related Work
 
-- **H-QuEST** (Interspeech 2025): [link]
-- **BEST-STD** (ICASSP 2025): https://doi.org/10.1109/ICASSP49357.2025.10889633
-- **IndicSUPERB / Kathbath** (Interspeech 2023): https://doi.org/10.21437/Interspeech.2023-536
+- **H-QuEST** (Interspeech 2025): [https://www.isca-archive.org/interspeech_2025/singh25c_interspeech.html#]
 
 ---
 
